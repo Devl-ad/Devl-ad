@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @Devlad
 - 👀 I’m interested in Wed dev and ML
 - 🌱 I’m currently learning Mechine learniing
+- - 🤔 I’m looking to help with Anything website related
  
  ### TECHNOLOGIES I WORK WITH
  ![django](https://github.com/devla-d/devla-d/blob/main/images/icons8-django-144.png)
