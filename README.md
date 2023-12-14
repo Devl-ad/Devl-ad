@@ -12,4 +12,4 @@
 ![ Solidity 🥇](https://github.com/devla-d/devla-d/blob/main/images/solidity.png)
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devl-ad&layout=compact&langs_count=11)](https://github.com/alabo-excel/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devl-ad&layout=compact&langs_count=12)](https://github.com/alabo-excel/github-readme-stats)
