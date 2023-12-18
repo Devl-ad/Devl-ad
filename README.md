@@ -9,6 +9,6 @@
 ![Java](https://github.com/devl-ad/devl-ad/blob/main/images/java.png)
 ![Javascript 🚀](https://github.com/devl-ad/devl-ad/blob/main/images/js.png)
 ![Typescript 🚀](https://github.com/devl-ad/devl-ad/blob/main/images/ts.png)
-![django](https://github.com/devl-ad/devl-ad/blob/main/images/icons8-django-144.png)
+![django](https://github.com/devl-ad/devl-ad/blob/main/images/dj.png)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devl-ad&layout=compact&langs_count=12)](https://github.com/alabo-excel/github-readme-stats)
