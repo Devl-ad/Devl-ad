@@ -6,7 +6,6 @@
 ### TECHNOLOGIES I WORK WITH
 
 ![Python](https://github.com/devl-ad/devl-ad/blob/main/images/python.png)
-![Java](https://github.com/devl-ad/devl-ad/blob/main/images/javai.png)
 ![Javascript 🚀](https://github.com/devl-ad/devl-ad/blob/main/images/js.png)
 ![Typescript 🚀](https://github.com/devl-ad/devl-ad/blob/main/images/ts.png)
 ![django](https://github.com/devl-ad/devl-ad/blob/main/images/dj.png)
