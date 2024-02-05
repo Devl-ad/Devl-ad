@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Devlad
 - 👀 I’m interested in Wed dev and ML
-- 🌱 I’m currently learning Ai and Mechine learning
+- 🌱 I’m currently learning  
 - 🤔 I’m looking to help with Anything website related
 
 ### TECHNOLOGIES I WORK WITH
